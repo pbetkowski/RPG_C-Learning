@@ -1,0 +1,12 @@
+C:\Projects\RPGame\RPGame\bin\Debug\RPGame.exe.config
+C:\Projects\RPGame\RPGame\bin\Debug\RPGame.exe
+C:\Projects\RPGame\RPGame\bin\Debug\RPGame.pdb
+C:\Projects\RPGame\RPGame\obj\Debug\RPGame.csprojResolveAssemblyReference.cache
+C:\Projects\RPGame\RPGame\obj\Debug\RPGame.Properties.Resources.resources
+C:\Projects\RPGame\RPGame\obj\Debug\RPGame.csproj.GenerateResource.Cache
+C:\Projects\RPGame\RPGame\obj\Debug\RPGame.csproj.CoreCompileInputs.cache
+C:\Projects\RPGame\RPGame\obj\Debug\RPGame.exe
+C:\Projects\RPGame\RPGame\obj\Debug\RPGame.pdb
+C:\Projects\RPGame\RPGame\obj\Debug\RPGame.Scene.resources
+C:\Projects\RPGame\RPGame\bin\Debug\Engine.dll
+C:\Projects\RPGame\RPGame\bin\Debug\Engine.pdb
